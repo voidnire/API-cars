@@ -1,6 +1,6 @@
 CRIANDO API - PASSOS
 
- 1 - classe p/ declarar os atributos
+ 1 - classe p/ declarar os atributos  //crie numa pasta model pra organizar 😁
 
  2 - pacotes: //usei os 5.0.10
 	EF core
@@ -31,5 +31,5 @@ ex: services.AddDbContext<Nomedaclassecontext>(2E-DESK18\SQLEXPRESS
 
 	
 	EXTRAS:
-	site legal: https://http.cat
+	site legal: https://http.cat  🐱🐱🐱🐱
 	
