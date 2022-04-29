@@ -28,3 +28,8 @@ ex: services.AddDbContext<Nomedaclassecontext>(2E-DESK18\SQLEXPRESS
 
 
 - dica for later: scaffold //cria controle automaticament com todos os metodos, ver em https://www.youtube.com/watch?v=oPGhzIrYQXQ minuto 20:25
+
+	
+	EXTRAS:
+	site legal: https://http.cat
+	
